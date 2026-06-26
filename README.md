@@ -4,17 +4,17 @@
 
 **Student name:Moses *YOUR NAME HERE*
 
-**GitHub repository URL:  *PASTE YOUR REPOSITORY URL HERE*
+**GitHub repository URL: https://github.com/Moses292/Final_exam_Moses.git *PASTE YOUR REPOSITORY URL HERE*
 
-**Render application URL:** *PASTE YOUR RENDER URL HERE*
+**Render application URL:https://final-exam-moses-1.onrender.com *PASTE YOUR RENDER URL HERE*
 
 ---
 
 ## Application information
 
-**Application name:** *Final Exam - YOUR NAME*
+**Application name:Final exam  Moses *Final Exam - YOUR NAME*
 
-**Render project name:** *Final Exam - YOUR NAME*
+**Render project name:Final exam Moses *Final Exam - YOUR NAME*
 
 **Branch used for production deployment:** **main**
 
