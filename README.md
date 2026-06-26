@@ -46,7 +46,7 @@
 
 **URL:https://final-exam-moses.onrender.com/correction *PASTE YOUR RENDER URL HERE/correction*
 
-**Error after first call:** *Put the result of the first call*
+**Error after first call:Correction endpoint is working *Put the result of the first call*
 
 **Expected result after correction:** *Put the result of the call after the correction*
 
@@ -57,4 +57,4 @@
 Briefly explain what you corrected and how you moved the correction from staging to production.
 
 **Explanation:**  
-*WRITE YOUR EXPLANATION HERE*
+in the API code it is only the sen word  you have to put d hat the end so  it will be send then it works.
