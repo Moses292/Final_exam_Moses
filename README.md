@@ -46,9 +46,9 @@
 
 **URL:https://final-exam-moses.onrender.com/correction *PASTE YOUR RENDER URL HERE/correction*
 
-**Error after first call:Correction endpoint is working *Put the result of the first call*
+**Error after first call: *Put the result of the first call*
 
-**Expected result after correction:** *Put the result of the call after the correction*
+**Expected result after correction:Correction endpoint is working *Put the result of the call after the correction*
 
 ---
 
